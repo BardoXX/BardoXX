@@ -8,7 +8,7 @@
 
 ## 🚀 Over mij  
 🔹 **Fullstack developer** met ervaring in **PHP, Docker, HTML, CSS, TailwindCSS, JavaScript** en meer!  
-🔹 Ik bouw en beheer hostingplatforms zoals **Hexagon Hosting & Ravenode**  
+🔹 Ik bouw en beheer hostingplatforms zoals **Hexagon Hosting**  
 🔹 Passie voor **open-source projecten, Linux en serverbeheer**  
 
 ## 🛠️ Talen & Technologieën  
