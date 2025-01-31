@@ -43,7 +43,7 @@
 🌍 **Website:** [Hexagon Hosting](https://hexagonhosting.be)  
 📧 **E-mail:** #soon  
 💬 **Discord:** `MrBardo_`  
-📷 **Instagram:** [hexagonhosting_](https://www.instagram.com/hexagonhosting_?igsh=MTkybm56N2tpa3c0MQ%3D%3D&utm_source=qr)  
+📷 **Instagram:** [hexagonhosting_](https://www.instagram.com/barxx_1429?igsh=MXM4aXpxeXNlZDls)  
 
 ---
 
