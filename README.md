@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, ik ben <span style="color:#ffcc00">Bardo!</span>  
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, ik ben <span style="color:#ffcc00">Bardo.</span>   
 </h1>
 
 <p align="center">
@@ -9,9 +9,9 @@
 ---
 
 ## 🚀 Over mij  
-🌟 **ik kan beetje Develepen** met een passie voor **hosting, open-source en high-performance systemen**!  
-🖥️ Beheerder van **Hexagon Hosting**  
-🔧 ik kan **PHP, Docker, HTML, CSS, TailwindCSS, JavaScript en meer!**  
+🌟 **Fullstack Developer** met een passie voor **hosting, open-source en high-performance systemen**!  
+🖥️ Beheerder van **Barxx.nl**   
+🔧 Vaardig in **PHP, Docker, HTML, CSS, TailwindCSS, JavaScript en meer!**  
 🐧 Linux-fan en serverbeheerder  
 
 ---
@@ -40,8 +40,8 @@
 ---
 
 ## 📫 **Contact & Socials**  
-🌍 **Website:** [Hexagon Hosting](https://hexagonhosting.be)  
-📧 **E-mail:** #soon  
+🌍 **Website:** [Barxx](https://barxx.nl)   
+📧 **E-mail:** *#soon*  
 💬 **Discord:** `MrBardo_`  
 📷 **Instagram:** [Me instagram](https://www.instagram.com/barxx_1429?igsh=MXM4aXpxeXNlZDls)  
 
