@@ -42,7 +42,7 @@ const bardoxx = {
 | [Main Website](https://barxx.nl) | My professional portfolio and services | Laravel, PHP, CSS, JavaScript |
 | [Client Portal](https://client.barxx.nl) | Secure client management system | Paymenter,  |
 | [Saikou Customs](https://saikoucustoms.be) | e-commerce platform | Wordpress, |
-| [Ticket Bot System](https://github.com/BardoXX/ticketbot) | Automated ticket management system | Node.js, MySQL |
+| [Ticket Bot System](https://github.com/BardoXX/discord-ticket-bot) | Automated ticket management system | Node.js, MySQL |
 
 ---
 
