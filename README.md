@@ -24,11 +24,11 @@ Welkom op mijn GitHub profiel! Ik ben een gepassioneerde web developer met een v
 
 ```javascript
 const bardoxx = {
-  languages: ['JavaScript', 'TypeScript', 'HTML', 'CSS', 'PHP'],
-  frameworks: ['React', 'Vue.js', 'Node.js', 'Express'],
-  design: ['Figma', 'Adobe XD', 'Photoshop'],
-  databases: ['MongoDB', 'MySQL', 'PostgreSQL'],
-  deployment: ['AWS', 'Netlify', 'Vercel', 'Docker'],
+  languages: ['PHP', 'JavaScript', 'HTML', 'CSS', 'SQL'],
+  frameworks: ['Laravel', 'Node.js', 'Express'],
+  design: ['Figma', 'Adobe XD', 'Canva'],
+  databases: ['MySQL', 'PostgreSQL', 'MongoDB'],
+  deployment: ['Own System's', 'Docker'],
   currentFocus: 'Building scalable web applications with modern tech'
 };
 ```
@@ -39,9 +39,10 @@ const bardoxx = {
 
 | Project | Description | Tech Used |
 |---------|-------------|-----------|
-| [Main Website](https://barxx.nl) | My professional portfolio and services | React, TailwindCSS |
-| [Client Portal](https://client.barxx.nl) | Secure client management system | Vue.js, Node.js, MongoDB |
-| [Project Nebula](https://github.com/BardoXX/nebula) | Open-source developer toolkit | TypeScript, React |
+| [Main Website](https://barxx.nl) | My professional portfolio and services | Laravel, PHP, CSS, JavaScript |
+| [Client Portal](https://client.barxx.nl) | Secure client management system | Paymenter,  |
+| [Saikou Customs](https://saikoucustoms.be) | e-commerce platform | Wordpress, |
+| [Ticket Bot System](https://github.com/BardoXX/ticketbot) | Automated ticket management system | Node.js, MySQL |
 
 ---
 
@@ -59,9 +60,8 @@ const bardoxx = {
 
 ### 📬 Contact Me
 
-- 📧 Email: contact@barxx.nl
-- 🔗 LinkedIn: [linkedin.com/in/bardoxx](https://linkedin.com/in/bardoxx)
-- 🐦 Twitter: [@BardoXX_dev](https://twitter.com/BardoXX_dev)
+- 📧 Email: info@barxx.nl
+- Discord: https://discord.gg/beRuVaxWUt
 
 ---
 
