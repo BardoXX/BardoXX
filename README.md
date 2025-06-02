@@ -1,69 +1,22 @@
-# 👨‍💻 BardoXX
+# BardoXX
 
-## ✨ Web Developer & Digital Creator
+Welkom bij mijn persoonlijke repository!
 
-<div align="center">
-  
-  ![Coding Banner](https://raw.githubusercontent.com/BardoXX/BardoXX/main/assets/coding_banner.gif)
-  
-  [![Website](https://img.shields.io/badge/Website-barxx.nl-blue?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://barxx.nl)
-  [![Client Portal](https://img.shields.io/badge/Client_Portal-client.barxx.nl-orange?style=for-the-badge&logo=react&logoColor=white)](https://client.barxx.nl)
-  [![GitHub followers](https://img.shields.io/github/followers/BardoXX?label=Follow&style=for-the-badge&logo=github)](https://github.com/BardoXX)
+Ik ben Bardo – developer & hostingprovider achter o.a.:
+- [CobaltHosting.be](https://cobalthosting.be)
+- [https://demo.cobalthosting.be/](https://demo.cobalthosting.be/)
+- [SaikouCustoms.be](https://saikoucustoms.be)
 
-</div>
+### 🔧 Waar ik aan werk
+- Webdevelopment (Next.js, PHP, Tailwind)
+- Minecraft hosting & tools (Pterodactyl, Proxmox)
+- AI-integratie via Discord & Web
+- Website builders & klantportalen
 
----
-
-### 🌟 About Me
-
-Welkom op mijn GitHub profiel! Ik ben een gepassioneerde web developer met een voorliefde voor creatieve digitale oplossingen. Mijn expertise ligt in het bouwen van gebruiksvriendelijke en innovatieve webapplicaties.
-
----
-
-### 🛠️ Tech Stack
-
-```javascript
-const bardoxx = {
-  languages: ['PHP', 'JavaScript', 'HTML', 'CSS', 'SQL'],
-  frameworks: ['Laravel', 'Node.js', 'Express'],
-  design: ['Figma', 'Adobe XD', 'Canva'],
-  databases: ['MySQL', 'PostgreSQL', 'MongoDB'],
-  deployment: ['Own System's', 'Docker'],
-  currentFocus: 'Building scalable web applications with modern tech'
-};
-```
-
----
-
-### 🏆 Projects
-
-| Project | Description | Tech Used |
-|---------|-------------|-----------|
-| [Main Website](https://barxx.nl) | My professional portfolio and services | Laravel, PHP, CSS, JavaScript |
-| [Client Portal](https://client.barxx.nl) | Secure client management system | Paymenter,  |
-| [Saikou Customs](https://saikoucustoms.be) | e-commerce platform | Wordpress, |
-| [Ticket Bot System](https://github.com/BardoXX/discord-ticket-bot) | Automated ticket management system | Node.js, MySQL |
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  
-  ![BardoXX's GitHub stats](https://github-readme-stats.vercel.app/api?username=BardoXX&show_icons=true&theme=radical)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BardoXX&layout=compact&theme=radical)
-
-</div>
-
----
-
-### 📬 Contact Me
-
-- 📧 Email: info@barxx.nl
-- Discord: https://discord.gg/beRuVaxWUt
-
----
+### 📬 Contact
+- 🌐 [CobaltHostingg](https://cobalthosting.be/)
+- 📧 info@cobalthosting.be
+- 💬 Discord: `bardo._`
 
 <div align="center">
   
