@@ -1,24 +1,21 @@
+<div align="center">
 # BardoXX
 
 Welkom bij mijn persoonlijke repository!
 
 Ik ben Bardo – developer & hostingprovider achter o.a.:
 - [CobaltHosting.be](https://cobalthosting.be)
-- [https://demo.cobalthosting.be/](https://demo.cobalthosting.be/)
-- [SaikouCustoms.be](https://saikoucustoms.be)
+- [demo.cobalthosting.be](https://demo.cobalthosting.be/)
 
 ### 🔧 Waar ik aan werk
-- Webdevelopment (Next.js, PHP, Tailwind)
-- Minecraft hosting & tools (Pterodactyl, Proxmox)
-- AI-integratie via Discord & Web
-- Website builders & klantportalen
+- Webdevelopment (Next.js, PHP, Tailwind, etc)
+- Minecraft prison server
+- Discord [bot](https://github.com/BardoXX/discord-ticket-bot) < it runs true a database
 
 ### 📬 Contact
 - 🌐 [CobaltHostingg](https://cobalthosting.be/)
 - 📧 info@cobalthosting.be
 - 💬 Discord: `bardo._`
-
-<div align="center">
   
   ⭐️ From [BardoXX](https://github.com/BardoXX) with ❤️
   
