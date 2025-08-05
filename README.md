@@ -1,10 +1,11 @@
 <div align="center">
 
-# 👋 Welkom, ik ben BardoXX
+# 👋 Welcome im BardoXX
 
 Developer & hostingprovider achter [CobaltHosting.be](https://cobalthosting.be)
 
 ### 🛠️ Skills & Tools
+![Bun](https://img.shields.io/badge/-Bun-FBF0E4?&logo=bun&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=nextdotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?&logo=php&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?&logo=tailwind-css&logoColor=white)
@@ -17,7 +18,7 @@ Developer & hostingprovider achter [CobaltHosting.be](https://cobalthosting.be)
 🌐 Website: [CobaltHosting.be](https://cobalthosting.be)
 💬 Discord: `bardo._`
 
-⭐️ From [BardoXX](https://github.com/BardoXX) with ❤️  
-<img src="https://komarev.com/ghpvc/?username=BardoXX&color=blueviolet" alt="Profile views"/> 
+⭐️ From [BardoXX](https://github.com/BardoXX) with ❤️  
+<img src="https://komarev.com/ghpvc/?username=BardoXX&color=blueviolet" alt="Profile views"/> 
 
 </div>
