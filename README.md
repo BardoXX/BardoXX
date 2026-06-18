@@ -4,7 +4,7 @@
 <p>i do bits and bobs</p>
 
 <p>
-<a href="https://cdb-service.com">
+
 <img src="https://img.shields.io/badge/cdb--service.com-000?style=flat-square" />
 </a>
 <a href="https://discord.com">
